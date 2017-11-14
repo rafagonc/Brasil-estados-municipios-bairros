@@ -1,4 +1,5 @@
 [
+  {"id":0, "sigla":"AM", "nome": "Amazônia"},
   {"id":1, "sigla":"AC", "nome": "Acre"},
   {"id":2, "sigla":"AL", "nome": "Alagoas"},
   {"id":3, "sigla":"AP", "nome": "Amapá"},
